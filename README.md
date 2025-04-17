@@ -51,8 +51,3 @@ Bu proje, [Automation Exercise](https://automationexercise.com) web uygulaması 
 2. Projeyi klonla veya indir:
 ```bash
 git clone https://github.com/kullanici/elif_testAutomation.git
-
------------------------------
-
-![1 Senaryo](https://github.com/user-attachments/assets/a56b2f41-3c67-4e28-854d-20e242e1e01e)
-![1 Senaryo](https://github.com/user-attachments/assets/4d368a83-d8e9-43cf-9ed5-1e9404e08609)
