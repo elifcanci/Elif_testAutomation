@@ -52,9 +52,3 @@ Bu proje, [Automation Exercise](https://automationexercise.com) web uygulaması 
 ```bash
 git clone https://github.com/kullanici/elif_testAutomation.git
 
----------------------------
-
-![1 Senaryo](https://github.com/user-attachments/assets/16d89320-3b62-4fdb-b0d5-ebc44da8f90e)
-
-![2  Senaryo](https://github.com/user-attachments/assets/b7876c5e-4de1-460d-8871-88333182be25)
-
