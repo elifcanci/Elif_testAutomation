@@ -1,7 +1,7 @@
 # Elif_testAutomation
 # 🚀 Automation Exercise Test Otomasyon Projesi
 
-Bu proje, [Automation Exercise](https://automationexercise.com) web uygulaması üzerinde Java, Selenium, Cucumber (Gherkin), ve TestNG kullanılarak oluşturulmuş bir test otomasyon frameworküdür.
+Bu proje, [Automation Exercise](https://automationexercise.com) web uygulaması üzerinde Java, Selenium, Cucumber (Gherkin), ve TestNG kullanılarak oluşturulmuş bir test otomasyon projesidir.
 
 ## 🧰 Kullanılan Teknolojiler
 
